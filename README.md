@@ -3,8 +3,8 @@ see the result. Tkinter allows us to add buttons in rows and columns. In some pl
 
 
 
-<img src="data/Screenshot (5).png" height="240" >
-
+<img src="data/Screenshot 1.png" height="240" >
+<img src="data/Screenshot2.png" height="240" >
 
 ## Libraries
 * Tkinter
